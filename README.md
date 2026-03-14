@@ -8,6 +8,9 @@ This project analyzes **73,000+ rental listings** across the UAE to understand w
 * **Pricing Benchmarks:** The **Average Annual Rent is 129,177 AED**, but the **Median is 95,000 AED**. This gap shows that a few ultra-luxury properties are pushing the average higher.
 * **Most Popular Choice:** **Apartments** are the most common listing (56k+), and **Unfurnished** units make up **78% of the market**, suggesting that most tenants prefer to bring their own furniture to save on monthly costs.
 
+  ![Dashboad](visualization/dashboad.JPG)
+
+
 ## 🛠 Technical Workflow
 * **Data Cleaning:** Handled missing Latitude/Longitude values and fixed inconsistencies in "Address" and "City" names.
 * **Visual Analysis:** Used **Matplotlib and Seaborn** to create boxplots and bar charts to compare rents across different cities and property types.
